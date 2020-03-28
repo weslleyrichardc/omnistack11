@@ -9,12 +9,14 @@ Um evento para treinar suas habilidades, colocar um projeto incrível no seu por
 - Back End
     - Node JS
     - Express
-    - Nodemon
 - Front End
     - React JS
 - Mobile
     - React Native
     - Expo
+- Database
+    - SQLite
+    - Knex JS
 - Ferramentas
     - Insomnia
     - Github
